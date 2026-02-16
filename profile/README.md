@@ -1,6 +1,6 @@
 # CI PI 2026 Integrados 
 
-Bem-vindo(a) à organização **Integrados CI PI** 🚀  
+Bem-vindo(a) à organização **Integrados** 🚀  
 
 Somos uma equipe formada por alunos do Instituto Federal do Paraná (IFPR) – Campus Paranavaí. Esta organização foi criada para centralizar os projetos desenvolvidos na disciplina de Projeto Integrador e Construção de Software.
 
